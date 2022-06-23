@@ -12,4 +12,7 @@ public static class IntExtension
     {
         return $"{num} - {str} - {num2}";
     }
+
+
+
 }
